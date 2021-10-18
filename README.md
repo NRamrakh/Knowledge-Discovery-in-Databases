@@ -75,6 +75,18 @@ Our aim is to analyze the rise/fall in the number of Covid-19 cases before and a
 > More information is available in the notebook in the folder with the name [**eda_code**](https://github.com/punitMashruwala/kdd_covid-19/tree/main/eda_code) or in the pdf file with the name: [**EDA - Jupyter Notebook.pdf**](https://github.com/punitMashruwala/kdd_covid-19/blob/main/EDA%20-%20Jupyter%20Notebook.pdf)
 
 
+**Few Examples of EDA**
+
+![image](https://user-images.githubusercontent.com/70915043/137784122-5c035e4a-356e-4764-8364-009bcafbf211.png)
+
+![image](https://user-images.githubusercontent.com/70915043/137784317-82ea95f4-3fb7-470d-805a-bf0c9e7de155.png)
+
+![image](https://user-images.githubusercontent.com/70915043/137784432-03ef7434-72f5-4332-aa6e-d18159dc88b8.png)
+
+
+
+
+
  - **Data Preparation:**
 
  
