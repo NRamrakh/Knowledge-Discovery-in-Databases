@@ -6,9 +6,9 @@ Team Name: **Team RPM**
 
 **Team Members:**
 
- - Nisha **R**amrakhyani - 801208678
- - Zalak **P**anchal - 801196881
- - Punit **M**ashruwala - 801208416
+ - Nisha **R**amrakhyani
+ - Zalak **P**anchal 
+ - Punit **M**ashruwala 
 
 **Project Introduction:**
 The project mainly focuses on the impact caused by different measures taken by different countries to control the spread of Covid-19. 
